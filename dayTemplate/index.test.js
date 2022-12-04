@@ -1,3 +1,4 @@
+const {test, expect} = require("@jest/globals");
 const part1 = require('./part1');
 const part2 = require('./part2');
 
